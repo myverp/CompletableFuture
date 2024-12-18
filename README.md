@@ -61,13 +61,13 @@
 1. Склонуйте репозиторій:
 
     ```bash
-    git clone <URL репозиторію>
+    git clone https://github.com/myverp/CompletableFuture.git
     ```
 
 2. Перейдіть до директорії проєкту:
 
     ```bash
-    cd <назва директорії>
+    cd CompletableFutureExample
     ```
 
 3. Скомпілюйте проєкт:
